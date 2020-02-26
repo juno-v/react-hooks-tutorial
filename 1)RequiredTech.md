@@ -26,7 +26,7 @@
         - you should see a list of tech that you've installed via Homebrew, if you've just downloaded it, you should see node since we've just installed in. <br/>
 ![brew-list](brew-list.png)
     <br/>
-    - node -v <br/>
-    - npm -v <br/>
+    - ###### node -v <br/>
+    - ###### npm -v <br/>
         - if the return result shows you versions of node/npm, you've got them installed! <br/>
 ![node-npm](node-npm.png)
