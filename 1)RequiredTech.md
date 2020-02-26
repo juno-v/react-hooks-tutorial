@@ -33,3 +33,7 @@
 - ### npm -v <br/>
     - if the return result shows you versions of node/npm, you've got them installed! <br/>
 ![node-npm](node-npm.png)
+
+# Launching Visual Studio Code from command line
+![VSC-cmd-line](VSC.png)
+- find: Shell Command: Install 'code' command in PATH
