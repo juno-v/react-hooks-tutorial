@@ -9,7 +9,7 @@
 
 ### Homebrew <br/>
     - copy and paste this into your terminal
-##### /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+- ##### /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 <br/>
     - Read more about Homebrew here: https://brew.sh/
 
