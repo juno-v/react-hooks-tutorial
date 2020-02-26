@@ -6,7 +6,7 @@ Below you'll find a list of things you'll need to be downloading.
 <br/>
 * Homebrew
     - copy and paste this into your terminal
-        - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+        - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
     - Read more about Homebrew here: https://brew.sh/
 <br/>
 * Node
