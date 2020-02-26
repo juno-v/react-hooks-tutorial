@@ -22,7 +22,7 @@ Below you'll find a list of things you'll need to be downloading.
     <br>
     - brew list
         - you should see a list of tech that you've installed via Homebrew, if you've just downloaded it, you should see node since we've just installed in. 
-        ![brew list](./imagesbrew-list.png)
+        ![brew list](./images/brew-list.png)
     <br/>
     - node -v 
     - npm -v 
