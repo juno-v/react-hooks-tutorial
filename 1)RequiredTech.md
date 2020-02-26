@@ -1,10 +1,10 @@
 # Required Tech 
 
 Below you'll find a list of things you'll need to be downloading. 
-* __Git__ (This should come with Apple products already)
+* Git (This should come with Apple products already)
     - for Windows users (https://www.youtube.com/watch?v=nbFwejIsHlY)
 <br/>
-* __Homebrew__
+* Homebrew
     - copy and paste this into your terminal
         - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     - Read more about Homebrew here: https://brew.sh/
@@ -14,19 +14,19 @@ Below you'll find a list of things you'll need to be downloading.
         - brew update (updates homebrew with latest version of Node)
         - brew install node 
 <br/>
-* __Visual studio code__
+* Visual Studio Code
     - download the appropiate operating system for your device here: (https://code.visualstudio.com/download)
 
 # Verify if you had downloaded these techs. 
 - In your terminal type: 
     <br/>
-    - __brew list__ <br/>
+    - brew list<br/>
         - you should see a list of tech that you've installed via Homebrew, if you've just downloaded it, you should see node since we've just installed in. 
 ![brew-list](brew-list.png)
     <br/>
-    - __node -v__
+    - node -v
     <br/>
-    - __npm -v__
+    - npm -v
     <br/>
         - if the return result shows you versions of node/npm, you've got them installed! 
 ![node-npm](node-npm.png)
