@@ -3,7 +3,6 @@
 ## Below you'll find a list of things you'll need to be downloading. 
 
 ### Git 
-<br/>
 - this should come with Apple products already <br/>
 - for Windows users (https://www.youtube.com/watch?v=nbFwejIsHlY)
 
@@ -11,12 +10,13 @@
 - copy and paste below into your terminal:
 ##### /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 <br/>
-- Read more about Homebrew here: https://brew.sh/
+- read more about Homebrew here: https://brew.sh/
 
 ### Node <br/>
 - in your terminal type the following: 
 - brew update (updates homebrew with latest version of Node)
 - brew install node 
+- read more about Node here: https://nodejs.org/en/ 
 
 ### Visual Studio Code <br/>
 - download the appropiate operating system for your device here: 
@@ -31,6 +31,7 @@
 
 - ### node -v <br/>
 - ### npm -v <br/>
+    - read more about NPM here: https://docs.npmjs.com/about-npm/
 - if the return result shows you versions of node/npm, you've got them installed! <br/>
 ![node-npm](node-npm.png)
 
