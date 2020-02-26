@@ -27,4 +27,4 @@ Below you'll find a list of things you'll need to be downloading.
     - node -v <br/>
     - npm -v 
         - if the return results shows you versions of node/npm, you'e got them installed! 
-![node-npm](/images/node-npm.png)
+![node-npm](./images/node-npm.png)
